@@ -3,18 +3,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://codepen.io/jaysmartinez" target="blank"
-		><img
-			align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-			alt="jaysmartinez"
-			height="30"
-			width="40"
-	/></a>
 	<a href="https://linkedin.com/in/jaysmartinez" target="blank"
 		><img
 			align="center"
 			src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
+			alt="jaysmartinez"
+			height="30"
+			width="40"
+	/></a>
+	<a href="https://codepen.io/jaysmartinez" target="blank"
+		><img
+			align="center"
+			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
 			alt="jaysmartinez"
 			height="30"
 			width="40"
