@@ -114,7 +114,7 @@
 			alt="ruby"
 			width="40"
 			height="40"
-		/>
+		>
 	</a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer">
 		<img
