@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">A Full-Stack developer and Professional Tech Nerd</h3>
 
+<p>Im a Full-Stack Web Developer with a range of experiences in the web field. From small Creative Agencies to large Tech Companies, I'm always up for a challenge and enjoy collaborating with teams to find innovative solutions.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/jaysmartinez" target="blank"
