@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jay</h1>
+<h1 align="center">Hi, I'm Jay</h1>
 <h3 align="center">A Full-Stack developer and Professional Tech Nerd</h3>
 
 <p>Im a Full-Stack Web Developer with a range of experiences in the web field. From small Creative Agencies to large Tech Companies, I'm always up for a challenge and enjoy collaborating with teams to find innovative solutions.</p>
@@ -24,8 +24,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<p align="left" >
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" >
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
 			alt="html5"
@@ -109,7 +109,7 @@
 			height="40"
 		/>
 	</a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+	<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
 			alt="ruby"
@@ -165,14 +165,6 @@
 			height="40"
 		/>
 	</a>
-	<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-			alt="blender"
-			width="40"
-			height="40"
-		/>
-	</a>
 	<a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
@@ -205,14 +197,6 @@
 			height="40"
 		/>
 	</a>
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-			alt="linux"
-			width="40"
-			height="40"
-		/>
-	</a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -233,14 +217,6 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
 			alt="postgresql"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-			alt="sqlite"
 			width="40"
 			height="40"
 		/>
