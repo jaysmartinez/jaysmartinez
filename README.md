@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jay</h1>
 <h3 align="center">A Full-Stack developer and Professional Tech Nerd</h3>
 
-<p>Im a Full-Stack Web Developer with a range of experiences in the web field. From small Creative Agencies to large Tech Companies, I'm always up for a challenge and enjoy collaborating with teams to find innovative solutions.</p>
+<p>I am a results-driven Full-Stack Developer with ten years of experience in Software Engineering, Technical Project Management, Web Development, and IT support. Leveraging my experience from startups to large Tech companies, I've thrived at working in international teams using agile approaches to deliver projects on time and within budget. I have expertise in debugging and resolving technical issues to improve user experience and satisfaction, as well as quality assurance testing and working as a developer advocate.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
