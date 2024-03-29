@@ -61,6 +61,30 @@
 			height="40"
 		/>
 	</a>
+		<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+			alt="typescript"
+			width="40"
+			height="40"
+		/>
+	</a>
+		<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+			alt="sass"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+			alt="tailwind"
+			width="40"
+			height="40"
+		/>
+	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -229,6 +253,14 @@
 			height="40"
 		/>
 	</a>
+	<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+			alt="ruby"
+			width="40"
+			height="40"
+		/>
+	</a>
 	<a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
@@ -257,38 +289,6 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
 			alt="redux"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-			alt="ruby"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-			alt="sass"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-			alt="tailwind"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-			alt="typescript"
 			width="40"
 			height="40"
 		/>
