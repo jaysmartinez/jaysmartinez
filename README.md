@@ -4,7 +4,7 @@ Hey there, welcome to my page. I am a results-driven professional with ten years
 <ul>
   <li>🌍 I'm based in Austin </li>
   <li>🖥️ See my portfolio at <a href="https://jaysmartinez.vercel.app/">jaysmartinez.vercel.app</a></li>
-  <li>🧠 I'm learning ML/AI</li>
+  <li>🧠 I'm learning AI and Automations</li>
   <li>🤝 I'm open to collaborating on impactful projects </li>
 </ul>
 
