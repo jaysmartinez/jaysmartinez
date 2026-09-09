@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, welcome to my page. I am a results-driven professional with ten years of experience in SWE, TPM, CSM, and Tech support.
+Hey there, welcome to my page. I am a results-driven professional with ten years of experience in SWE, PM, and Tech support.
 
 <br>Leveraging my experience from startups to large Tech companies, I've worked in international teams using agile approaches to deliver projects on time and within budget.
 
